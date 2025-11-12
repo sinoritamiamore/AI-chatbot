@@ -1,1 +1,52 @@
-
+[
+{
+"id": "faq_1",
+"question": "How do I apply?",
+"answer": "Apply through the admissions portal at https://apply.mekelleu.edu (demo link)."
+},
+{
+"id": "faq_2",
+"question": "When does the semester start?",
+"answer": "The semester starts on September 1, 2025 (demo)."
+},
+{
+"id": "faq_3",
+"question": "How much is tuition?",
+"answer": "Tuition varies by program. See the finance office or contact finance@mekelleu.edu(demo)."
+},
+{
+"id": "faq_4",
+"question": "Do you offer dormitories?",
+"answer": "Yes — limited dormitory accommodation; apply early via housing@mekelleu.edu(demo)."
+},
+{
+"id": "faq_5",
+"question": "Where is the admissions office?",
+"answer": "Admissions office is located at the main campus administration building, 2nd floor (demo)."
+},
+{
+"id": "faq_6",
+"question": "How do I contact the library?",
+"answer": "Library email: library@mekelleu.edu, phone: +251-xxx-xxxx (demo)."
+},
+{
+"id": "faq_7",
+"question": "How can I access past exam papers?",
+"answer": "Past papers are available for download in the Resources section of this widget (demo)."
+},
+{
+"id": "faq_8",
+"question": "How can I get academic advising?",
+"answer": "Contact your department or the Student Affairs office to book an advising session (demo)."
+},
+{
+"id": "faq_9",
+"question": "What is the grading scale?",
+"answer": "Letter grades A-F based on % marks. Consult the academic handbook for details (demo)."
+},
+{
+"id": "faq_10",
+"question": "Is there a semester break?",
+"answer": "Yes — there is a short semester break in December (demo)."
+}
+]
