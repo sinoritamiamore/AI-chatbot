@@ -1,1 +1,9 @@
-
+// Path: infra/Dockerfile.backend
+FROM node:18-alpine
+WORKDIR /usr/src/app
+COPY backend/package*.json ./
+RUN npm ci
+COPY backend ./
+RUN npx prisma generate || true
+EXPOSE 4000
+CMD ["npm", "run", "dev"]
