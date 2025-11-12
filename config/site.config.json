@@ -1,1 +1,7 @@
-
+// Path: config/site.config.json
+{
+"schoolName": "Mekelle University",
+"logoUrl": "/assets/logo.png",
+"primaryColor": "#0b5fff",
+"apiBase": "http://localhost:4000"
+}
