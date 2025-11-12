@@ -1,1 +1,23 @@
-
+version: '3.8'
+services:
+backend:
+build:
+context: ./backend
+dockerfile: ../infra/Dockerfile.backend
+env_file:
+- .env.example
+ports:
+- "4000:4000"
+volumes:
+- ./backend:/usr/src/app
+- ./backend/dev.db:/usr/src/app/dev.db
+command: ["npm", "run", "dev"]
+frontend:
+build:
+context: ./frontend
+dockerfile: ../infra/Dockerfile.frontend
+ports:
+- "5173:5173"
+volumes:
+- ./frontend:/usr/src/app
+command: ["npm", "run", "dev"]
