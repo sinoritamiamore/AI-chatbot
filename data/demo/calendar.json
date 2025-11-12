@@ -1,1 +1,44 @@
-
+[
+{
+"id": "event_1",
+"title": "Semester Start",
+"description": "First day of classes for the semester.",
+"date": "2025-09-01",
+"time": "08:00"
+},
+{
+"id": "event_2",
+"title": "Midterm Week",
+"description": "Midterm examinations week.",
+"date": "2025-11-01",
+"time": "09:00"
+},
+{
+"id": "event_3",
+"title": "Final Exams",
+"description": "Final examinations week.",
+"date": "2026-02-15",
+"time": "09:00"
+},
+{
+"id": "event_4",
+"title": "Graduation",
+"description": "Graduation ceremony.",
+"date": "2026-06-20",
+"time": "10:00"
+},
+{
+"id": "event_5",
+"title": "Orientation",
+"description": "New student orientation.",
+"date": "2025-08-25",
+"time": "09:00"
+},
+{
+"id": "event_6",
+"title": "Holiday Break",
+"description": "University holiday break.",
+"date": "2025-12-24",
+"time": "00:00"
+}
+]
